@@ -53,5 +53,6 @@ especialmente em relação ao uso de funções assíncronas (`async/await`), man
 
 ---
 https://lirafa.github.io/YuGiOh-Jokenpo/
+
 ![image](https://github.com/user-attachments/assets/89839697-1455-41b0-94d4-a62400819734)
 
